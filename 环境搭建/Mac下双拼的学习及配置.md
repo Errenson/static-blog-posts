@@ -6,7 +6,7 @@ QIM:www.macqim.com
 挂接码:[MAC OS系统下的小鹤外挂码表 (页 1) — 其它挂接 — 小鹤双拼论坛](http://www.flypy.com/bbs/viewtopic.php?id=68)
 
 # 学习
-[【新手必读】对鹤形简单的入门介绍_小鹤双拼吧_百度贴吧](http://tieba.baidu.com/p/2419324180)
+[【新手必读】对鹤形简单的入门介绍](http://tieba.baidu.com/p/2419324180)
 [小鹤双拼——双拼方案](http://www.flypy.com/pin.html)
 [小鹤双拼——双形](http://www.flypy.com/xing.html)
 把上面两个网页里的部件图和键位图下下来，然后用Afloat置顶，对照着打字即可。

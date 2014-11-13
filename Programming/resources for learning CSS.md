@@ -1,4 +1,4 @@
-Suppose you already watched the intro-level CSS video course like [30 Days to Learn HTML & CSS](https://www.youtube.com/watch?v=bfqBUDk99Tc&list=PL52E0F0A024E913AE) or done with website like [Codecademy](http://www.codecademy.com/en/tracks/web),here is the next steps.
+Suppose you already watched a intro-level CSS video course like [30 Days to Learn HTML & CSS](https://www.youtube.com/watch?v=bfqBUDk99Tc&list=PL52E0F0A024E913AE) or completed a CSS course at website like [Codecademy](http://www.codecademy.com/en/tracks/web),here is the next steps.
 
 # layout
 [Learn CSS Layout](http://learnlayout.com/)
