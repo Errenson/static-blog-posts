@@ -9,7 +9,9 @@ QIM:www.macqim.com
 [【新手必读】对鹤形简单的入门介绍](http://tieba.baidu.com/p/2419324180)
 [小鹤双拼——双拼方案](http://www.flypy.com/pin.html)
 [小鹤双拼——双形](http://www.flypy.com/xing.html)
-把上面两个网页里的部件图和键位图下下来，然后用Afloat置顶，对照着打字即可。
+把上面两个网页里的部件图和键位图下下来，或者用下图
+![xhsp](https://cloud.githubusercontent.com/assets/9476856/5041979/0035f2b4-6c08-11e4-9860-75545966de75.png)
+之后用[Afloat for Mac](http://www.chrisvanpatten.com/master-windows-afloat-mac)置顶，对照着打字即可。
 遇到不会打的字可以切换到windows下的官方飞扬输入法，按ctrl＋i打开编码表查询。
 
 # 使用
