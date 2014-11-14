@@ -19,5 +19,5 @@
 [Getting started with koajs - Hemanth.HM](http://h3manth.com/new/blog/2014/getting-started-with-koajs/)
 -[koa/guide.md at master · koajs/koa](https://github.com/koajs/koa/blob/master/docs/guide.md)
 [compose/index.js at master  koajs/compose](https://github.com/koajs/compose/blob/master/index.js)
-[koa/application.js at master  koajs/koa](https://github.com/koajs/koa/blob/master/lib/application.js#L115)
-[koa/application.js at master  koajs/koa](https://github.com/koajs/koa/blob/master/lib/application.js#L69)
+[koa/application.js - server.listen ](https://github.com/koajs/koa/blob/master/lib/application.js#L115)
+[koa/application.js - compose middleware](https://github.com/koajs/koa/blob/master/lib/application.js#L69)
