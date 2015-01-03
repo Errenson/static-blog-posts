@@ -1,5 +1,7 @@
-一开始看了些低端推荐，比如[OS X 平台上有哪些值得推荐的常用软件？ - 知乎](http://www.zhihu.com/question/19550256)，导致走了点弯路，直到看到[我用Mac的这一年](http://www.jianshu.com/p/cfc0d49f2e8f),才开始渐渐顺手起来。
-这里推荐些上篇里没有的软件。
+普通软件推荐：[OS X 平台上有哪些值得推荐的常用软件？ - 知乎](http://www.zhihu.com/question/19550256s
+优质软件推荐：[我用Mac的这一年](http://www.jianshu.com/p/cfc0d49f2e8f)
+下面补充些上面没提到的软件。
+
 ## [Mac App Store - Degrees](https://itunes.apple.com/us/app/degrees/id430173763)
 在菜单栏显示当前气温。
 ## [TotalFinder brings colored labels back to your Finder and more!](http://totalfinder.binaryage.com/)
@@ -10,10 +12,12 @@ finder增强。
 记录每天在每个程序（文件、网站）上花了多少时间。
 ## [Anxiety - Lightweight To-do Management](http://www.anxietyapp.com/)
 基于Reminders的极简todo list应用。
-## [Literature and Latte - Scapple for Mac OS X and Windows](https://www.literatureandlatte.com/scapple.php)
-不会自动调整位置的思维导图。
 ## [Mac App Store - FoldingText](https://itunes.apple.com/us/app/foldingtext/id540003654)
 基于markdown的时间管理，教程:[Customizing FoldingText - Tuts+ Computer Skills Tutorial](http://computers.tutsplus.com/tutorials/customizing-foldingtext--cms-21674)
+## [Literature and Latte - Scapple for Mac OS X and Windows](https://www.literatureandlatte.com/scapple.php)
+不会自动调整位置的思维导图。
+## [Simplenote](http://simplenote.com/)
+足够简单的笔记软件。
 ## [Karabiner](https://pqrs.org/osx/karabiner/)
 更改键位。由于官方教程很不友好，这里简单讲解下，改键的方法是打开[一个xml格式的文件](https://pqrs.org/osx/karabiner/document.html.en#privatexml)，然后根据[这里介绍的格式进行更改](https://pqrs.org/osx/karabiner/xml.html.en)，里面真正的关键其实就两个，举例来说
 `<autogen>__KeyToKey__ KeyCode::Q, KeyCode::Y</autogen>`
