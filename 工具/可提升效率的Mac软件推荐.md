@@ -1,4 +1,4 @@
-普通软件推荐：[OS X 平台上有哪些值得推荐的常用软件？ - 知乎](http://www.zhihu.com/question/19550256s
+普通软件推荐：[OS X 平台上有哪些值得推荐的常用软件？ - 知乎](http://www.zhihu.com/question/19550256)
 优质软件推荐：[我用Mac的这一年](http://www.jianshu.com/p/cfc0d49f2e8f)
 下面补充些上面没提到的软件。
 
