@@ -26,3 +26,7 @@ finder增强。
 修改键键盘布局。方法是打开[一个xml格式的文件](https://pqrs.org/osx/karabiner/document.html.en#privatexml)，然后根据[这里介绍的格式进行更改](https://pqrs.org/osx/karabiner/xml.html.en)，我最推荐的是它的并击（__SimultaneousKeyPresses__）和过载（__KeyOverlaidModifier__），教程:
 [HOW TO: Remap keys in OSX using KeyRemap4MacBook (now Karabiner)](http://www.keychatter.com/2014/08/04/how-to-remap-keys-in-osx-using-keyremap4macbook-now-karabiner/)
 [Using Key Remap 4 MacBook's Private.xml](http://blog.iansinnott.com/using-keyremap4macbooks-private-xml/)
+
+# 查找软件
+[AlternativeTo - Social Software Recommendations](http://alternativeto.net/)
+[Lifehacker](http://lifehacker.com/)上的软件推荐。
